@@ -392,6 +392,4 @@ df -h ~/hdd1     # Total space used/available
 - No need to use the docking station's "cloning" feature for normal storage use
 
 ---
-
-**Created:** January 2026  
-**Last Updated:** January 2026
+For further details, please refer to the respective folders or contact the author via the provided email.
